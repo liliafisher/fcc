@@ -11397,7 +11397,7 @@ header.masthead {
   background: url("../assets/img/portfolio/choripan.jpg");
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-size: cover;
 }
 header.masthead h1, header.masthead .h1 {
